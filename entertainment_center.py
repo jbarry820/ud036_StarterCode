@@ -34,8 +34,8 @@ matrix = media.Movie("The Matrix", "A great sci fi movie",
 
 
 movies = [evan_almighty, avatar, second_hand_lions, ratatouille, hunger_games, matrix]
-#fresh_tomatoes.open_movies_page(movies)
-#print(media.Movie.VALID_RATINGS)
-#print(media.Movie.__doc__)
+fresh_tomatoes.open_movies_page(movies)
+print(media.Movie.VALID_RATINGS)
+print(media.Movie.__doc__)
 print(media.Movie.__name__)
 #print(media.Movie.__module__)
