@@ -17,9 +17,9 @@ Te edit this program you will need to have Python 2.7 installed.
 
 * You will need a web browser for the program to run.
 
-* Start the program by opening up the entertainment_center.py file and executing it.
+* Start the program by opening up the entertainment_center.py file in IDLE.
 
-* You can also start the program from the browser by directing the URL to the fresh_tomatoes.html file.
+* Run the program by clicking on the Run tab at the top, then click on Run Module.
 
 ## Contributing
 
