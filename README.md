@@ -7,7 +7,7 @@ Movie Trailer Website
 * These instructions will get you a copy of the project up and running on your local machine for development and testing purposes:
 * Go to git@github.com:jbarry820/ud036_StarterCode.git to get the project.
 * Clone this to your machine.
-* Edit in your Sublime or your choice of editor.
+* Edit in Sublime or your choice of editor.
 
 ### Prerequisites
 
